@@ -1,0 +1,22 @@
+{
+  "name": "purescript-toobs",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-transformers": "0.8.x",
+    "purescript-control": "0.3.x",
+    "purescript-foldable-traversable": "0.4.x",
+    "purescript-eff": "0.1.x"
+  },
+  "devDependencies": {
+    "purescript-console": "0.1.x"
+  }
+}
